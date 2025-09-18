@@ -14,19 +14,15 @@ Bu projede baştan sona bir regresyon problemi üzerinde çalıştım. Projeyi g
 * **Hiperparametre Optimizasyonu:** Modelin performansını en üst seviyeye çıkarmak için `RandomizedSearchCV` ile en iyi hiperparametreleri aradım.
 * **Model Değerlendirme:** Eğittiğim modelin tahmin doğruluğunu R-kare (R-squared) ve Ortalama Karesel Hata (Mean Squared Error) gibi metriklerle değerlendirdim.
 
----
-
 ## 🛠️ Kullanılan Kütüphaneler ve Araçlar
 
 Bu projeyi geliştirirken aşağıdaki kütüphanelerden ve araçlardan bolca faydalandım:
 
-* **Python:**
-* **Pandas & NumPy:**
-* **Matplotlib & Seaborn:**
-* **Scikit-learn:**
-* **Jupyter Notebook:**
-
----
+* **Python**
+* **Pandas & NumPy**
+* **Matplotlib & Seaborn**
+* **Scikit-learn**
+* **Jupyter Notebook**
 
 ## 🏃‍♂️ Nasıl Çalıştırılır?
 
@@ -34,12 +30,12 @@ Bu projeyi kendi bilgisayarınızda denemek isterseniz:
 
 **1. Bu Depoyu Klonlayın:**
 ```bash
-git clone [https://github.com/](https://github.com/)[emregergin]/[cardekho-regression].git
+git clone https://github.com/emregergin/cardekho-regression.git
 ```
 
 **2. Proje Klasörüne Gidin:**
 ```bash
-cd [cardekho-regression]
+cd cardekho-regression
 ```
 
 **3. Gerekli Kütüphaneleri Yükle:**
